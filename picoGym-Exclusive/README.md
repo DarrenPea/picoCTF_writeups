@@ -43,3 +43,4 @@
 
 ## Web Exploitation
 
+- [JAuth](https://github.com/DarrenPea/picoCTF_writeups/tree/main/picoGym-Exclusive/Web-Exploitation/JAuth)
