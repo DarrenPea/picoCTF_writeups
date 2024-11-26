@@ -8,6 +8,7 @@
 | **Cryptography** | [caesar](https://github.com/DarrenPea/picoCTF_writeups/tree/main/picoCTF-2019/Cryptography/caesar) | Medium |
 | **Cryptography** | [Easy1](https://github.com/DarrenPea/picoCTF_writeups/tree/main/picoCTF-2019/Cryptography/Easy1) | Medium |
 | **Cryptography** | [Flags](https://github.com/DarrenPea/picoCTF_writeups/tree/main/picoCTF-2019/Cryptography/Flags) | Medium |
+| **Cryptography** | [john_pollard](https://github.com/DarrenPea/picoCTF_writeups/tree/main/picoCTF-2019/Cryptography/john_pollard) | Medium |
 | **Cryptography** | [la cifra de](https://github.com/DarrenPea/picoCTF_writeups/tree/main/picoCTF-2019/Cryptography/la-cifra-de) | Medium |
 | **Cryptography** | [Mr-Worldwide](https://github.com/DarrenPea/picoCTF_writeups/tree/main/picoCTF-2019/Cryptography/Mr-Worldwide) | Medium |
 | **Cryptography** | [Tapping](https://github.com/DarrenPea/picoCTF_writeups/tree/main/picoCTF-2019/Cryptography/Tapping) | Medium |
@@ -47,6 +48,7 @@
 | **Web Exploitation** | [Irish-Name-Repo 1](https://github.com/DarrenPea/picoCTF_writeups/tree/main/picoCTF-2019/Web-Exploitation/Irish-Name-Repo-1) | Medium |
 | **Web Exploitation** | [Irish-Name-Repo 2](https://github.com/DarrenPea/picoCTF_writeups/tree/main/picoCTF-2019/Web-Exploitation/Irish-Name-Repo-2) | Medium |
 | **Web Exploitation** | [Irish-Name-Repo 3](https://github.com/DarrenPea/picoCTF_writeups/tree/main/picoCTF-2019/Web-Exploitation/Irish-Name-Repo-3) | Medium |
+| **Web Exploitation** | [JaWT Scratchpad](https://github.com/DarrenPea/picoCTF_writeups/tree/main/picoCTF-2019/Web-Exploitation/JaWT-Scratchpad) | Medium |
 | **Web Exploitation** | [logon](https://github.com/DarrenPea/picoCTF_writeups/tree/main/picoCTF-2019/Web-Exploitation/logon) | Easy |
 | **Web Exploitation** | [picobrowser](https://github.com/DarrenPea/picoCTF_writeups/tree/main/picoCTF-2019/Web-Exploitation/picobrowser) | Medium |
 | **Web Exploitation** | [where are the robots](https://github.com/DarrenPea/picoCTF_writeups/tree/main/picoCTF-2019/Web-Exploitation/where-are-the-robots) | Easy |
