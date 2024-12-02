@@ -10,4 +10,6 @@ These are my personal writeups for the practises I have done on picoCTF.
 
 4. [picoCTF 2021](https://github.com/DarrenPea/picoCTF_writeups/tree/main/picoCTF-2021)
 
-5. [picoGym Exclusive](https://github.com/DarrenPea/picoCTF_writeups/tree/main/picoGym-Exclusive)
+5. [picoCTF-2022](https://github.com/DarrenPea/picoCTF_writeups/tree/main/picoCTF-2022)
+
+6. [picoGym Exclusive](https://github.com/DarrenPea/picoCTF_writeups/tree/main/picoGym-Exclusive)
