@@ -10,7 +10,7 @@ Don't power users get tired of making spelling mistakes in the shell? Not anymor
 Start your instance to see connection details.
 Additional details will be available after launching your challenge instance.
 
-`ssh -p ` <br>
+`ssh -p 61160 ctf-player@saturn.picoctf.net` <br>
 The password is `fd7746b4`
 
 ## Approach

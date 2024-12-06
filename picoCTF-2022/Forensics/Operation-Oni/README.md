@@ -18,7 +18,7 @@ Remote machine: `ssh -i key_file -p 52870 ctf-player@saturn.picoctf.net`
 After unzipping the folder, I first used `mmls` to view the partition layout of the image.
 
 ```
-$ wsl mmls disk.img
+$ mmls disk.img
 DOS Partition Table
 Offset Sector: 0
 Units are in 512-byte sectors
